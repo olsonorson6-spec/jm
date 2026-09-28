@@ -1,0 +1,9 @@
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d/subagents/agent-a17eb5816a91635b8.jsonl	2026-09-28T09:48:24.021Z			8
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d/subagents/agent-a17eb5816a91635b8.jsonl	2026-09-28T09:48:32.424Z			8
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d/subagents/agent-a17eb5816a91635b8.jsonl	2026-09-28T09:48:36.043Z			18
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d.jsonl	2026-09-28T09:36:01.808Z		standard	116
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d.jsonl	2026-09-28T09:36:02.749Z		standard	116
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d.jsonl	2026-09-28T09:47:52.759Z		standard	1605
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d.jsonl	2026-09-28T09:47:53.985Z		standard	1605
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d.jsonl	2026-09-28T09:48:42.278Z		standard	1087
+-home-user-jm/8ff2e33a-3af0-53b4-8279-9f696478573d.jsonl	2026-09-28T09:48:46.491Z		standard	1087
